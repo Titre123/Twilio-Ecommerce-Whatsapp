@@ -253,7 +253,3 @@ Find out how to build a complete e-commerce platform. Author Melvin Kisten tackl
    ```
    > heroku ps:scale web=1
    ```
-
-## More Stuff
-
-Check out some other stuff on [Melvin K](https://github.com/iammelvink "Melvin K GitHub page").
